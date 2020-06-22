@@ -3,8 +3,8 @@ function getStats(a, b) {
     let resultDiff = a - b;
 
     return {
-        sum: resultAdd;
-        difference: resultDiff;
+        sum: resultAdd,
+        difference: resultDiff,
     };
 }
 
